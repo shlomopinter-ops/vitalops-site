@@ -161,7 +161,7 @@ h2{font-size:clamp(30px,6.4vw,48px);font-weight:800;letter-spacing:-.03em}
 .foot-brand p{margin-top:10px}
 .powered{display:flex;flex-direction:column;gap:8px;align-items:flex-start}
 .powered>span:first-child{font-size:12px;text-transform:uppercase;letter-spacing:.14em;font-weight:600}
-.powered img{width:150px;height:auto}
+.powered img{width:190px;height:auto}
 .powered-name{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 .foot-bottom{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;border-top:1px solid rgba(255,255,255,.08);margin-top:36px;padding-top:20px;font-size:13px;color:rgba(226,236,255,.5)}
 
