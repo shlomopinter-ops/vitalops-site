@@ -1,6 +1,6 @@
-// Edit these values. Product name, demo email and company are each one line.
+// Edit these values. Every visible product name on the site comes from productName.
 window.SITE_CONFIG = {
   productName: "VitalOps",
-  demoEmail: "shlomopinter@gmail.com", // e.g. "demo@yourcompany.com" — blank shows "booking opens soon"
+  demoEmail: "shlomopinter@gmail.com",
   poweredBy: "Texoma Healthcare Group"
 };
